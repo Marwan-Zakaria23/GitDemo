@@ -9,7 +9,8 @@ public class ps3 {
 
 	public int multiplyByTwo() 
 	{
-		
+		System.out.println("Marwan");
+		System.out.println("sameh");
 		
 		a=a*2;
 		return a;
