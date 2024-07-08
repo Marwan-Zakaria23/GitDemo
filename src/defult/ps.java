@@ -7,6 +7,12 @@ public class ps {
 	public void dothis() {
 		System.out.println("Marwan");
 		System.out.println("sameh");
+		System.out.println("zakaria");
+		System.out.println("zakaria");
+		System.out.println("zakaria");
+		System.out.println("zakaria");
+		System.out.println("zakaria");
+		
 	
 
 	}
