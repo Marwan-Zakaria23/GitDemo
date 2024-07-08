@@ -11,6 +11,8 @@ public class ps3 {
 	{
 		System.out.println("Marwan");
 		System.out.println("sameh");
+		System.out.println("Marwan");
+		System.out.println("sameh");
 		
 		a=a*2;
 		return a;
