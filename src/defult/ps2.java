@@ -10,7 +10,8 @@ public ps2(int a) {
 public int incrment() 
 {
 	System.out.println("Marwan");
-	
+	System.out.println("Marwan1");
+	System.out.println("Marwan2");
 	
 	a=a+1;
 	return a;
