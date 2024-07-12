@@ -17,5 +17,15 @@ System.out.println(ps2.decrment());
 System.out.println(ps2.multiplyBythree());
 
 
+	}{
+
+		System.out.println("1234");
+		System.out.println("1234");
+		System.out.println("1234");
+		System.out.println("1234");
+		System.out.println("1234");
+		System.out.println("1234");
+		System.out.println("1234");
 	}
-}
+	}
+	

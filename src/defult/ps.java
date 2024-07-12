@@ -13,6 +13,18 @@ public class ps {
 		System.out.println("zakaria");
 		System.out.println("zakaria");
 		
+		
+		
+		
+		
+		
+		System.out.println("1234");
+		System.out.println("1234");
+		System.out.println("1234");
+		System.out.println("1234");
+		System.out.println("1234");
+		System.out.println("1234");
+		System.out.println("1234");
 	
 
 	}
